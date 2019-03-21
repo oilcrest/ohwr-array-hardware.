@@ -1,0 +1,7 @@
+Contact point wishing to receive information about manufactured Products
+(see section 4.2 of CERN OHL v.1.2):
+- Florian Pitters <florian.pitters<NOSPAM>cern.ch>
+- Erica Brondolin <erica.brondolin<NOSPAM>cern.ch>
+- Szymon Kulis <szymon.kulis<NOSPAM>cern.ch>
+- Thorben Quast <thorben.quast<NOSPAM>cern.ch>
+- Eva Sicking <eva.sicking<NOSPAM>cern.ch>
