@@ -13,8 +13,8 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 # PCB design files
 
-* [Switching matrix design](https://gitlab.cern.ch/ARRAY/hardware/tree/master/Switching_Matrix)
-* [Probe card design](https://gitlab.cern.ch/ARRAY/hardware/tree/master/Probe_Card)
+* [Switching matrix design](/Switching_Matrix)
+* [Probe card design](/Probe_Card)
 
 # PCB images
 
