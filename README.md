@@ -20,8 +20,8 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 Switching matrix
 
-![SwitchingMatrix](https://gitlab.cern.ch/ARRAY/hardware/raw/master/Switching_Matrix/Documentation/Switching_Matrix.jpg)
+![SwitchingMatrix](/Switching_Matrix/Documentation/Switching_Matrix.jpg)
 
 Probe card
 
-![ProbeCard](https://gitlab.cern.ch/ARRAY/hardware/raw/master/Probe_Card/Documentation/Probe_Card.jpg)
+![ProbeCard](/Probe_Card/Documentation/Probe_Card.jpg)
